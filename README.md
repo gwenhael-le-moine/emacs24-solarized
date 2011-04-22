@@ -16,7 +16,7 @@ visit the [github repository for Solarized][solarized-github].
 
 Installation
 ------------
-    1. Copy this file under custom-theme-load-path (typically ~/.emacs.d/)
+    1. Copy solarized*-theme.el under custom-theme-load-path (typically ~/.emacs.d/)
     2. load the theme with M-x load-theme
 
 License
